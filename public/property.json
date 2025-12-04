@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "Maple Grove Garden House",
+    "location": "New York, USA",
+    "price": 280,
+    "priceType": "week",
+    "beds": 4,
+    "bathrooms": 4,
+    "size": "2500 sqft",
+
+    "thumbnail": "https://i.ibb.co.com/jv7rnfk4/property-1.png",
+
+    "images": [
+      "https://i.ibb.co.com/jv7rnfk4/property-1.png",
+      "https://i.ibb.co.com/v41Y0FkJ/property-2.png",
+      "https://i.ibb.co.com/Fbm3ZC8j/property-3.png",
+      "https://i.ibb.co.com/m53JYG74/property-4.png",
+      "https://i.ibb.co.com/v6rGD5ds/property-5.png",
+      "https://i.ibb.co.com/Kp3XCqxH/property-6.png"
+    ],
+    "amenities": ["Private Pool", "Parking", "Pet Friendly"]
+  },
+
+  {
+    "id": 2,
+    "title": "Sunset Towers Eklosbet",
+    "location": "New York, USA",
+    "price": 340,
+    "priceType": "week",
+    "beds": 7,
+    "bathrooms": 4,
+    "size": "6500 sqft",
+
+    "thumbnail": "https://i.ibb.co.com/v41Y0FkJ/property-2.png",
+
+    "images": [
+      "https://i.ibb.co.com/jv7rnfk4/property-1.png",
+      "https://i.ibb.co.com/v41Y0FkJ/property-2.png",
+      "https://i.ibb.co.com/Fbm3ZC8j/property-3.png",
+      "https://i.ibb.co.com/m53JYG74/property-4.png",
+      "https://i.ibb.co.com/v6rGD5ds/property-5.png",
+      "https://i.ibb.co.com/Kp3XCqxH/property-6.png"
+    ],
+    "amenities": ["Gym", "Private Pool", "Security"]
+  },
+  
+  {
+    "id": 3,
+    "title": "Riverside Retreat",
+    "location": "New York, USA",
+    "price": 280,
+    "priceType": "week",
+    "beds": 4,
+    "bathrooms": 3,
+    "size": "3500 sqft",
+
+    "thumbnail": "https://i.ibb.co.com/Fbm3ZC8j/property-3.png",
+
+    "images": [
+      "https://i.ibb.co.com/jv7rnfk4/property-1.png",
+      "https://i.ibb.co.com/v41Y0FkJ/property-2.png",
+      "https://i.ibb.co.com/Fbm3ZC8j/property-3.png",
+      "https://i.ibb.co.com/m53JYG74/property-4.png",
+      "https://i.ibb.co.com/v6rGD5ds/property-5.png",
+      "https://i.ibb.co.com/Kp3XCqxH/property-6.png"
+    ],
+    "amenities": ["Private Pool", "Parking", "Pet Friendly"]
+  },
+
+  {
+    "id": 4,
+    "title": "Golden Meadows",
+    "location": "New York, USA",
+    "price": 340,
+    "priceType": "week",
+    "beds": 6,
+    "bathrooms": 4,
+    "size": "4500 sqft",
+
+    "thumbnail": "https://i.ibb.co.com/m53JYG74/property-4.png",
+
+    "images": [
+      "https://i.ibb.co.com/jv7rnfk4/property-1.png",
+      "https://i.ibb.co.com/v41Y0FkJ/property-2.png",
+      "https://i.ibb.co.com/Fbm3ZC8j/property-3.png",
+      "https://i.ibb.co.com/m53JYG74/property-4.png",
+      "https://i.ibb.co.com/v6rGD5ds/property-5.png",
+      "https://i.ibb.co.com/Kp3XCqxH/property-6.png"
+    ],
+    "amenities": ["Gym", "Private Pool", "Security"]
+  },
+  
+  {
+    "id": 5,
+    "title": "Ocean Sea Breeze ",
+    "location": "New York, USA",
+    "price": 280,
+    "priceType": "week",
+    "beds": 4,
+    "bathrooms": 5,
+    "size": "9500 sqft",
+
+    "thumbnail": "https://i.ibb.co.com/v6rGD5ds/property-5.png",
+
+    "images": [
+      "https://i.ibb.co.com/jv7rnfk4/property-1.png",
+      "https://i.ibb.co.com/v41Y0FkJ/property-2.png",
+      "https://i.ibb.co.com/Fbm3ZC8j/property-3.png",
+      "https://i.ibb.co.com/m53JYG74/property-4.png",
+      "https://i.ibb.co.com/v6rGD5ds/property-5.png",
+      "https://i.ibb.co.com/Kp3XCqxH/property-6.png"
+    ],
+    "amenities": ["Private Pool", "Parking", "Pet Friendly"]
+  },
+
+  {
+    "id": 6,
+    "title": "The Urban Nest Lofts",
+    "location": "New York, USA",
+    "price": 340,
+    "priceType": "week",
+    "beds": 6,
+    "bathrooms": 4,
+    "size": "5500 sqft",
+
+    "thumbnail": "https://i.ibb.co.com/Kp3XCqxH/property-6.png",
+
+    "images": [
+      "https://i.ibb.co.com/jv7rnfk4/property-1.png",
+      "https://i.ibb.co.com/v41Y0FkJ/property-2.png",
+      "https://i.ibb.co.com/Fbm3ZC8j/property-3.png",
+      "https://i.ibb.co.com/m53JYG74/property-4.png",
+      "https://i.ibb.co.com/v6rGD5ds/property-5.png",
+      "https://i.ibb.co.com/Kp3XCqxH/property-6.png"
+    ],
+    "amenities": ["Gym", "Private Pool", "Security"]
+  }
+  
+]
