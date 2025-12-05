@@ -7,8 +7,8 @@ import { HiX } from "react-icons/hi";
 const Navbar = () => {
     const [open, setOpen] = useState(false);
   return (
-    <nav className="w-full bg-white">
-      <div className="max-w-7xl mx-auto flex items-center justify-between py-4 px-4">
+    <nav className="w-full bg-white sticky top-0 z-50">
+      <div className="max-w-[1500px] mx-auto flex items-center justify-between py-4 px-4">
         {/* Logo  */}
         <div className="flex items-center gap-2">
           <img src={homeIcon} alt="home" className="w-8 h-8" />
