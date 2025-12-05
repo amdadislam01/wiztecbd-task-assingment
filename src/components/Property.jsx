@@ -19,6 +19,7 @@ const Property = () => {
     (page - 1) * itemsPerPage,
     page * itemsPerPage
   );
+
   return (
     <div className="max-w-[1500px] mx-auto px-4 py-8">
       <div className="grid grid-cols-12 gap-6">
@@ -27,7 +28,7 @@ const Property = () => {
         </div>
 
         <div className="col-span-12 md:col-span-9">
-          <div className="flex justify-between items-center border border-gray-200 p-2 rounded-xl mb-6">
+          <div className="flex flex-col md:flex-row justify-between items-start md:items-center border border-gray-200 p-2 rounded-xl mb-6 gap-2">
             <h2 className="text-xl font-semibold">
               Property <span className="text-gray-500 text-sm">--- Showing result: ({properties.length})</span>
             </h2>
@@ -36,13 +37,14 @@ const Property = () => {
               Sort By: Low to High ▼
             </button>
           </div>
+
           <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6">
             {paginatedData.map((item) => (
               <PropertyCard key={item.id} data={item} />
             ))}
           </div>
 
-          <div className="flex justify-center items-center gap-2 mt-10">
+          <div className="flex flex-wrap justify-center items-center gap-2 mt-6 md:mt-10">
             <button
               disabled={page === 1}
               onClick={() => setPage(page - 1)}
