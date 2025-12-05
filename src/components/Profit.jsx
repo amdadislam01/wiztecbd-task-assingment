@@ -15,6 +15,10 @@ const Profit = () => {
         <div className="absolute top-40 md:top-56 left-1/4 md:left-1/3 w-1 h-1 bg-white/50 rounded-full"></div>
         <div className="absolute top-12 md:top-20 right-32 md:right-80 w-1 h-1 md:w-2 md:h-2 bg-white/40 rounded-full"></div>
         <div className="absolute top-40 md:top-72 right-1/4 w-1 h-1 bg-white/30 rounded-full"></div>
+        <div className="absolute top-20 md:top-32 left-20 md:left-52 w-1 h-1 md:w-2 md:h-2 bg-white/40 rounded-full"></div>
+        <div className="absolute top-40 md:top-56 left-1/4 md:left-1/3 w-1 h-1 bg-white/50 rounded-full"></div>
+        <div className="absolute top-12 md:top-20 right-32 md:right-80 w-1 h-1 md:w-2 md:h-2 bg-white/40 rounded-full"></div>
+        <div className="absolute top-40 md:top-72 right-1/4 w-1 h-1 bg-white/30 rounded-full"></div>
       </div>
 
       <div className="relative z-10 max-w-4xl mx-auto text-center px-4">
@@ -27,6 +31,9 @@ const Profit = () => {
           Built for <span className="text-[#d6f0fc]">Creators.</span> <br />
           Powered for <span className="text-[#bceaff]">Profit</span>
         </h1>
+
+        <div className="w-96 h-96 bg-[#e7cbb570] rounded-full blur-3xl absolute top-26 -right-26 animate-[floatSlow_8s_ease-in-out_infinite]"></div>
+        <div className="w-96 h-96 bg-[#ecd6c55b] rounded-full blur-3xl absolute top-26 -left-26 animate-[floatSlowReverse_10s_ease-in-out_infinite]"></div>
 
         <p className="mt-4 md:mt-6 text-base md:text-lg text-white/70 max-w-xl mx-auto">
           Create and sell courses, consulting services, and communities — with

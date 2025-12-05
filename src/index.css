@@ -55,6 +55,31 @@
 }
 
 
+@keyframes floatSlow {
+  0% {
+    transform: translateY(0px) translateX(0px);
+  }
+  50% {
+    transform: translateY(-40px) translateX(-200px);
+  }
+  100% {
+    transform: translateY(0px) translateX(0px);
+  }
+}
+
+@keyframes floatSlowReverse {
+  0% {
+    transform: translateY(0px) translateX(0px);
+  }
+  50% {
+    transform: translateY(40px) translateX(200px);
+  }
+  100% {
+    transform: translateY(0px) translateX(0px);
+  }
+}
+
+
 @keyframes marquee-slide {
   0% {
     transform: translateX(100%);
