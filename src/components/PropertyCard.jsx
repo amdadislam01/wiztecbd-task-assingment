@@ -18,7 +18,7 @@ const PropertyCard = ({ data }) => {
           className="w-full h-40 sm:h-48 md:h-56 lg:h-64 object-cover rounded-2xl"
         />
 
-        <div className="flex flex-wrap justify-between items-center mt-3 px-1 gap-3">
+        <div className="flex flex-wrap items-center mt-3 px-1 gap-4">
           <div className="flex items-center gap-1">
             <img src={bed} alt="" className="w-4 h-4 sm:w-5 sm:h-5" />
             <p className="text-gray-500 text-xs sm:text-sm">Bed - 0{data.beds}</p>

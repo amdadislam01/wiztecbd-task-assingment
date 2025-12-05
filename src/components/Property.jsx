@@ -38,7 +38,7 @@ const Property = () => {
             </button>
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {paginatedData.map((item) => (
               <PropertyCard key={item.id} data={item} />
             ))}
