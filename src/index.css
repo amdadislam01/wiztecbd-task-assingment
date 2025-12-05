@@ -53,3 +53,23 @@
 .animate-marquee {
   animation: marquee 20s linear infinite;
 }
+
+
+@keyframes marquee-slide {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.marquee-track {
+  animation: marquee-slide 22s linear infinite;
+}
+
+
+.fade-in {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
+}

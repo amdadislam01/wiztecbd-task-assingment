@@ -66,7 +66,7 @@ const Courses = () => {
         </div>
       </div>
 
-      <div className="mt-16 max-w-[1400px] mx-auto px-6 rounded-tl-full rounded-bl-full p-10 relative overflow-hidden bg-linear-to-r from-[#470431] to-[#ac699a] flex flex-col md:flex-row items-center gap-10 pl-16">
+      <div className="mt-16 max-w-[1400px] mx-auto px-6 rounded-l-[500px] rounded-4xl p-10 relative  bg-linear-to-r from-[#470431] to-[#ac699a] flex flex-col md:flex-row items-center gap-10 pl-16">
         <div className="text-white w-full md:w-1/2">
           <h2 className="text-3xl font-bold mb-4">Courses</h2>
 

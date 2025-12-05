@@ -3,6 +3,8 @@ import Property from '../../components/Property';
 import Profit from '../../components/Profit';
 import Brands from '../../components/Brands';
 import Courses from '../../components/Courses';
+import Testmonials from '../../components/Testmonials';
+import Tools from '../../components/Tools';
 
 const Home = () => {
     return (
@@ -11,6 +13,8 @@ const Home = () => {
             <Profit />
             <Brands />
             <Courses />
+            <Testmonials />
+            <Tools />
         </>
     );
 };

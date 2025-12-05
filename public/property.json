@@ -6,7 +6,7 @@
     "price": 280, 
     "beds": 4,
     "bathrooms": 4,
-    "size": "2500 sqft",
+    "size": "2500  sft",
 
     "thumbnail": "https://i.ibb.co.com/jv7rnfk4/property-1.png",
 
@@ -29,7 +29,7 @@
  
     "beds": 7,
     "bathrooms": 4,
-    "size": "6500 sqft",
+    "size": "6500  sft",
     "thumbnail": "https://i.ibb.co.com/v41Y0FkJ/property-2.png",
 
     "images": [
@@ -50,7 +50,7 @@
     "price": 280,
     "beds": 4,
     "bathrooms": 3,
-    "size": "3500 sqft",
+    "size": "3500  sft",
 
     "thumbnail": "https://i.ibb.co.com/Fbm3ZC8j/property-3.png",
 
@@ -72,7 +72,7 @@
     "price": 340,
     "beds": 6,
     "bathrooms": 4,
-    "size": "4500 sqft",
+    "size": "4500  sft",
 
     "thumbnail": "https://i.ibb.co.com/m53JYG74/property-4.png",
 
@@ -94,7 +94,7 @@
     "price": 280,
     "beds": 4,
     "bathrooms": 5,
-    "size": "9500 sqft",
+    "size": "9500  sft",
 
     "thumbnail": "https://i.ibb.co.com/v6rGD5ds/property-5.png",
 
@@ -116,7 +116,7 @@
     "price": 340,
     "beds": 6,
     "bathrooms": 4,
-    "size": "5500 sqft",
+    "size": "5500  sft",
 
     "thumbnail": "https://i.ibb.co.com/Kp3XCqxH/property-6.png",
 
